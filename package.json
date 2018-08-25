@@ -1,0 +1,19 @@
+{
+  "name": "vuejs-palestra",
+  "version": "0.0.1",
+  "description": "Material para a palestra de VueJS no IFCE Aracati",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "palestra"
+  ],
+  "author": "Felipe Bastos Nunes",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
